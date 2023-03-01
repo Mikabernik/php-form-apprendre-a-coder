@@ -1,4 +1,4 @@
-$(function(){
+$(document).ready(function(){
     $('#contact-form').submit(function(e){
         e.preventDefault();
         $('.comments').empty();
@@ -21,6 +21,3 @@ $(function(){
             }
         });
     });
-
-})
-
