@@ -1,5 +1,6 @@
 
 
+<? php echo "change to .html ?>
 
 <!DOCTYPE html>
 <html>
